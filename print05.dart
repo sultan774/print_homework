@@ -1,5 +1,5 @@
 void main() {
-  print('       A ');
+  print('       A   ');
   print('      B B  ');
-  print( '    C C C ');
+  print('     C C C  ');
 }
